@@ -1,6 +1,7 @@
 # Nobeliane
 projet NSI Renan Mathéo Samuel 2022
-
+Code du jeu. 
+Description : petit rpg style zelda avec des vieux graphismes
 ## Comment le démarrer ?
 Pour pouvoir démarrer le fichier main.py dans un éditeur, il faut entrer les trois commandes suivantes dans une console python :
 	- pip install pygame
